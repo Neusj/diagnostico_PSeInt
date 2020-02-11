@@ -1,3 +1,3 @@
 # diagnostico_PSeInt
 
-Primer prueba diagnóstico de pseudocódigo en PSeInt.
+Primera prueba diagnóstico de pseudocódigo en PSeInt.
